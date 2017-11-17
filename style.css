@@ -1,0 +1,36 @@
+body{;
+	margin:50px;
+}
+h1{
+font-size:7em;
+color:crimson;
+text-align:center;
+}
+.abcd{
+	color:rgb(77,77,255);
+	/*color:slateblue;*/
+	font-size:30px;
+	
+	
+}.aletter{
+	text-decoration:underline;
+	font-size:35px;
+	text-align:left;
+	
+}
+.same{
+	text-align:left;
+	color:white;
+	background-color:lightgray;
+	font-size:30px;
+	text-indent:20px;
+	}
+section{
+	position:10px;
+	font-size:21px;
+	
+}
+a{
+	color:rgb(77,77,255);
+	text-decoration:none;
+}
